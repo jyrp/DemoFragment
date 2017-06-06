@@ -9,6 +9,7 @@
 
     <FrameLayout
         android:id="@+id/frame1"
+        android:background="#BBFFFF"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
@@ -16,6 +17,7 @@
 
     <FrameLayout
         android:id="@+id/frame2"
+        android:background="#FFDBDB"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
