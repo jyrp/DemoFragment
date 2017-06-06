@@ -6,8 +6,6 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import layout.FragmentFirst;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
